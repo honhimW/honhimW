@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=honhimW&show_icons=true&theme=radical)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=honhimW&theme=radical&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=honhimW&theme=radical&layout=compact&langs_count=8&hide=html,css)
 
 
 <!--
