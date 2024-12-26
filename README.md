@@ -1,6 +1,6 @@
 # Hon Him ^o^/
 
-&emsp;Honhim, this name is derived from the Cantonese pronunciation of my original name. The pronunciation is `/ˈhɒn.hɪm/`.
+&emsp;Honhim`/ˈhɒn.hɪm/`, the name is derived from the Cantonese pronunciation.
 
 <picture>
   <source
