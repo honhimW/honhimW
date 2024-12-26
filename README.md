@@ -1,5 +1,7 @@
 # Hon Him ^o^/
 
+&emsp;Honhim, this name is derived from the Cantonese pronunciation of my original name. The pronunciation is `/ˈhɒn.hɪm/`.
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=honhimW&show_icons=true&card_width=500&hide_title=true&theme=radical"
