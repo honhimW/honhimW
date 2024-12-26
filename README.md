@@ -1,12 +1,12 @@
-## Hi there 👋
+# Hon Him ^o^/
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=honhimW&show_icons=true&card_width=500&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=honhimW&show_icons=true&card_width=500&hide_title=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=honhimW&show_icons=true&card_width=500&theme=catppuccin_latte"
+    srcset="https://github-readme-stats.vercel.app/api?username=honhimW&show_icons=true&card_width=500&hide_title=true&theme=catppuccin_latte"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=honhimW&show_icons=true" />
@@ -14,11 +14,11 @@
 <p/>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=honhimW&theme=radical&layout=compact&langs_count=8&card_width=500&custom_title=Languages&hide=html,css"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=honhimW&theme=radical&layout=compact&langs_count=8&card_width=500&hide_title=true&hide=html,css"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=honhimW&theme=catppuccin_latte&layout=compact&langs_count=8&card_width=500&custom_title=Languages&hide=html,css"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=honhimW&theme=catppuccin_latte&layout=compact&langs_count=8&card_width=500&hide_title=true&hide=html,css"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=honhimW&layout=compact&langs_count=8&hide=html,css" />
